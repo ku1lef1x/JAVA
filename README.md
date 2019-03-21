@@ -1,9 +1,6 @@
 # JAVA
 Primeros pasos JAVA antes de POO
 
-
-**** En construcción ****
-
 ORDEN A SEGUIR PARA QUE TODO SEA ENTENDIBLE:
 
 
